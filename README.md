@@ -8,9 +8,9 @@
 ### Phishing 🎣
 Phishing is one of the luring techniques used by phishing artist in the intention of exploiting the personal details of unsuspected users. Phishing website is a mock website that looks similar in appearance but different in destination. The unsuspected users post their data thinking that these websites come from trusted financial institutions. Several antiphishing techniques emerge continuously but phishers come with new technique by breaking all the antiphishing mechanisms. Hence there is a need for efficient mechanism for the prediction of phishing website.
 
-### Safe User Experience
-SUE classify a given url in phishing and non-phishing category and therefore insure that the user does not visit any malicious site and prevent intrusion.
-SUE uses machine learning to predict the legitimacy of any website, depending upon the 30 features extracted from url.
+### Phishing-URL-Detector
+Project aims to classify a given url in phishing and non-phishing category and therefore insure that the user does not visit any malicious site and prevent intrusion.
+It uses machine learning to predict the legitimacy of any website, depending upon the 30 features extracted from url.
 Here we have trained multiple models to predict the legitimacy based on the features extracted from url, and loaded the most accurate model i.e XGBoost model as final model. The accuracy of different models are as follows:-
 
 ## Accuracy of models:
