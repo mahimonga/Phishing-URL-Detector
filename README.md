@@ -1,4 +1,4 @@
-# SUE (Safe user experience) 💻
+# Phishing-URL-Detector for Safe user experience 💻
 *A web app to check if given url leads to phishing sites*
 
 *Tech Stack - Python (ML Model) ![Python](https://img.shields.io/badge/python%20-%23E34F26.svg?&style=for-the-badge&logo=python&ogoColor=white), Bootstrap , ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) and ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)*
